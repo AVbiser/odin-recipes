@@ -21,3 +21,8 @@
 #small {
     font-size: 14px;
 }
+
+img {
+    height: auto;
+    width: 400px;
+}
