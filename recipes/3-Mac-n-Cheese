@@ -4,27 +4,28 @@
 <head>
     <title>Tasty Baked Mac n Cheese</title>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="mac.css">
 </head>
 
 <body>
-    <h1>Tasty Baked Mac n Cheese</h1>
+    <div id="center"><div class="title"><h1>Tasty Baked Mac n Cheese</h1></div></div>
 
-    <img src="../pics/mac-n-cheese.png" alt="Tasty Baked Mac n Cheese">
+    <div id="center"><img src="../pics/mac-n-cheese.png" alt="Tasty Baked Mac n Cheese"></div>
 
 
-    <p>This is one of my all time favorite dishes! It is equally good freshly made and even days after as leftovers. The cheese in the dish remelts and the flavor really sets in which makes it even tastier. Enjoy!</p>
+    <div id="center"><div id="green"><p>This is one of my all time favorite dishes! It is equally good freshly made and even days after as leftovers. The cheese in the dish remelts and the flavor really sets in which makes it even tastier. Enjoy!</p></div></div>
 
-    <p>
+    <div id="green"><p>
     <ul>
         <li>Prep time: 30 mins.</li>
         <li>Cook time: 25 mins.</li>
         <li>Total: 55 mins.</li>
         <li>Servings: 12</li>
     </ul>
-    </p>
+    </p></div>
 
-    <h2>Ingredients</h2>
-    <ul>
+   <div class="title"><h2>Ingredients</h2></div>
+   <div id="green"><ul>
         <li>1 (16 ounce) package elbow macaroni</li>
         <li>½ teaspoon salt</li>
         <li>¾ cup butter, softened - divided</li>
@@ -37,22 +38,23 @@
         <li>½ teaspoon ground cayenne pepper</li>
         <li>1 cup milk</li>
         <li>1 (8 ounce) package shredded mild Cheddar cheese</li>
-    </ul>
+    </ul></div>
 
-    <h3>Directions</h3>
-    <ol>
+   <div class="title"><h3>Directions</h3></div>
+    <div id="green"><ol>
         <li>Preheat oven to 375 degrees F (190 degrees C). Line a 9x13-inch baking dish with parchment paper.</li>
         <li>Bring a large pot of water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until almost cooked through and firm to the bite, about 7 minutes. Drain and transfer to a large bowl. Sprinkle macaroni with 1/2 teaspoon salt and stir 1/2 cup butter into the pasta.</li>
         <li>Mix 1/4 cup butter, sour cream, cream cheese, sharp Cheddar cheese, and egg yolk together in a bowl. Stir flour, 1/2 teaspoon salt, cayenne pepper, and milk into the sour cream mixture.</li>
         <li>Spread 1/4 cup sour cream sauce over bottom of prepared baking dish. Stir remaining sour cream sauce into macaroni. Pour macaroni into baking dish atop sauce layer; sprinkle mild Cheddar cheese over the casserole.</li>
         <li>Bake in the preheated oven until heated through and cheese topping has melted, about 15 minutes.</li>
-    </ol>
+    </ol></div>
 
-    <h4>Nutrition Facts</h4>
-    <p>Per Serving:
+   <div class="title"><h4>Nutrition Facts</h4></div>
+    <div id="small"><div id="green">
+       <div id="bold"><p>Per Serving:</div>
         455 calories; protein 16g; carbohydrates 31.3g; fat 29.7g; cholesterol 98.2mg; sodium 532.4mg.</p>
 
-    <p><strong>Cook's Notes:</Strong> I used the salted butter and also for the half stick, I used sea salt and olive oil butter.</p>
+    <p><strong>Cook's Notes:</Strong> I used the salted butter and also for the half stick, I used sea salt and olive oil butter.</p></div></div>
 
 
 </body>
